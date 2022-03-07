@@ -1,6 +1,6 @@
 # Chaos Simulation Reverse Proxy
 
-### Intro
+## Intro
 
 This package is used to spin up a local reverse proxy to one of our running simulation RPC nodes.
 
@@ -11,7 +11,7 @@ This package is used to spin up a local reverse proxy to one of our running simu
 
 - What is it good for - Local testing and working directly with our nodes without the needs to use API to spin & connect to the nodes.
 
-### How to configure
+## How to configure
 
 First we need to configure the proxy by filling up the config JSON on `config/config.json`
 Fill the following:
@@ -27,6 +27,6 @@ now just run `npm i` to install the dependecies needed to run the proxy.
 
 You're all set up!
 
-### How to run
+## How to run
 
 `npm run start`
