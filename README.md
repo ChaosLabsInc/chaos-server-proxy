@@ -30,3 +30,5 @@ You're all set up!
 ## How to run
 
 `npm run start`
+<img width="1133" alt="image" src="https://user-images.githubusercontent.com/25058984/157093367-37d15068-89bc-4cef-a033-b6e61ef5b242.png">
+
