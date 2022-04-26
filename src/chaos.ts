@@ -1,8 +1,8 @@
 import axios from "axios";
 import { Config, Configuration } from "./config";
 
-const CHAOS_SIMULATION_INIT_URL = "https://chaoslabs.co/async_simulation";
-const CHAOS_SIMULATION_DETAILS = "https://chaoslabs.co/simulation_details";
+const CHAOS_SIMULATION_INIT_URL = "https://cloud.chaoslabs.co/async_simulation";
+const CHAOS_SIMULATION_DETAILS = "https://cloud.chaoslabs.co/simulation_details";
 
 const MAX_TIMEOUT = 120 * 1000; // 120 seconds
 const RETRY_TIMEOUT = 2 * 1000; // 2 seconds
